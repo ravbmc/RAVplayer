@@ -1,4 +1,4 @@
-<NAME>Test 1</NAME><URL>E:\Users\Ravi\Videos\Romesh Ranganathan- Irrational (2016)\Romesh Ranganathan- Irrational (2016).mkv</URL><ICON>Add Icon</ICON><FANART>Add Fanart</FANART><DESC>Add description</DESC>﻿
+<NAME>Test 1</NAME><URL>http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4</URL><ICON>Add Icon</ICON><FANART>Add Fanart</FANART><DESC>Add description</DESC>﻿
 <NAME>Add name in here</NAME><URL>Add url</URL><ICON>Add Icon</ICON><FANART>Add Fanart</FANART><DESC>Add description</DESC>﻿
 <NAME>Add name in here</NAME><URL>Add url</URL><ICON>Add Icon</ICON><FANART>Add Fanart</FANART><DESC>Add description</DESC>﻿
 <NAME>Add name in here</NAME><URL>Add url</URL><ICON>Add Icon</ICON><FANART>Add Fanart</FANART><DESC>Add description</DESC>﻿
