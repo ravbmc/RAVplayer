@@ -1,0 +1,6 @@
+<NAME>Football</NAME><URL>E:\Users\Ravi\Downloads\My Kodi Addon 2\plugin.video.RAVplayer\plugin.video.RAVplayer\Structure\Sports\sports.php</URL><ICON>Add Icon</ICON><FANART>Add Fanart</FANART><DESC>Add description</DESC>﻿
+<NAME>Cricket</NAME><URL>Add url</URL><ICON>Add Icon</ICON><FANART>Add Fanart</FANART><DESC>Add description</DESC>﻿
+<NAME>WWE</NAME><URL>Add url</URL><ICON>Add Icon</ICON><FANART>Add Fanart</FANART><DESC>Add description</DESC>﻿
+
+
+
