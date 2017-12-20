@@ -1,2 +1,0 @@
-name= Test 1 url= "http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4" logo= "http://freedesignfile.com/upload/2017/08/Great-TV-logo-vector.jpg"
-name= Test 2 url= "acestream://9de4faeff15442c2a793fb618cf876d3cc47f72b" logo= "http://freedesignfile.com/upload/2017/08/Great-TV-logo-vector.jpg"
