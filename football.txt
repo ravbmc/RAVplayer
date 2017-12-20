@@ -1,2 +1,7 @@
 name= Bristol City vs Manchester United url= "plugin://program.plexus/?url=acestream://9eba690be925a98e8aecfc758070b874e19260c6&mode=1&name=acestream+title" logo= "http://pngimg.com/uploads/football/football_PNG1085.png"
-name= Test 2 url= "http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_10mb.mp4" logo= "http://tvshows.ofw-ako.com/wp-content/uploads/2015/11/discovery.jpg"
+name= Test 2 url= "http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_10mb.mp4" logo= "http://pngimg.com/uploads/football/football_PNG1085.png"
+name= Blank url= "plugin://program.plexus/?url=acestream://" logo= "http://pngimg.com/uploads/football/football_PNG1085.png"
+name= Blank 2 url= "plugin://program.plexus/?url=acestream://" logo= "http://pngimg.com/uploads/football/football_PNG1085.png"
+name= Blank 3 url= "plugin://program.plexus/?url=acestream://" logo= "http://pngimg.com/uploads/football/football_PNG1085.png"
+
+
