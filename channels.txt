@@ -1,2 +1,2 @@
 name= Test 1 url= "http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4" logo= "http://freedesignfile.com/upload/2017/08/Great-TV-logo-vector.jpg"
-name= Test 2 url= "plugin://program.plexus/?url=acestream://11816c3fdf09a722abb938704c03a94f1b08c8f3&mode=1&name=acestream+title" logo= "http://freedesignfile.com/upload/2017/08/Great-TV-logo-vecto.jpg"
+name= Test 2 url= "plugin://program.plexus/?url=acestream://11816c3fdf09a722abb938704c03a94f1b08c8f3&mode=1&name=acestream+title" logo= "http://freedesignfile.com/upload/2017/08/Great-TV-logo-vector.jpg"
