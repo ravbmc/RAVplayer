@@ -1,0 +1,6 @@
+<NAME>Football</NAME><URL>https://raw.githubusercontent.com/ravbmc/RAVplayer/master/football.txt</URL><ICON>Add Icon</ICON><FANART>Add Fanart</FANART><DESC>Add description</DESC>﻿
+<NAME>Cricket</NAME><URL>Add url</URL><ICON>Add Icon</ICON><FANART>Add Fanart</FANART><DESC>Add description</DESC>﻿
+<NAME>WWE</NAME><URL>Add url</URL><ICON>Add Icon</ICON><FANART>Add Fanart</FANART><DESC>Add description</DESC>﻿
+
+
+
