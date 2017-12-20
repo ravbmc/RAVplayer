@@ -1,0 +1,5 @@
+<NAME>Test 1</NAME><URL>E:\Users\Ravi\Videos\Romesh Ranganathan- Irrational (2016)\Romesh Ranganathan- Irrational (2016).mkv</URL><ICON>Add Icon</ICON><FANART>Add Fanart</FANART><DESC>Add description</DESC>﻿
+<NAME>Add name in here</NAME><URL>Add url</URL><ICON>Add Icon</ICON><FANART>Add Fanart</FANART><DESC>Add description</DESC>﻿
+<NAME>Add name in here</NAME><URL>Add url</URL><ICON>Add Icon</ICON><FANART>Add Fanart</FANART><DESC>Add description</DESC>﻿
+<NAME>Add name in here</NAME><URL>Add url</URL><ICON>Add Icon</ICON><FANART>Add Fanart</FANART><DESC>Add description</DESC>﻿
+<NAME>Add name in here</NAME><URL>Add url</URL><ICON>Add Icon</ICON><FANART>Add Fanart</FANART><DESC>Add description</DESC>﻿
