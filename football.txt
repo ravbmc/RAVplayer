@@ -1,5 +1,5 @@
 name= Sky Sports Football HD url= "plugin://program.plexus/?url=acestream://9eba690be925a98e8aecfc758070b874e19260c6&mode=1&name=acestream+title" logo= "https://lh3.googleusercontent.com/nwUWJoSto_JpXbFt5IBZ_1O0_E5do6Wt48VTZI588oKDypv25YHtd0Vx4udnHimtvTs=w300"
-name= Test 2 url= "acestream://647b34ddb1d49fbf0a91fdc8da9ea447496046dd" logo= "http://pngimg.com/uploads/football/football_PNG1085.png"
+name= Man Utd vs Burnley url= "acestream://647b34ddb1d49fbf0a91fdc8da9ea447496046dd" logo= "http://pngimg.com/uploads/football/football_PNG1085.png"
 name= Blank url= "plugin://program.plexus/?url=acestream://" logo= "http://pngimg.com/uploads/football/football_PNG1085.png"
 name= Blank 2 url= "plugin://program.plexus/?url=acestream://" logo= "http://pngimg.com/uploads/football/football_PNG1085.png"
 name= Blank 3 url= "plugin://program.plexus/?url=acestream://" logo= "http://pngimg.com/uploads/football/football_PNG1085.png"
