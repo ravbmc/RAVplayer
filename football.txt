@@ -1,7 +1,7 @@
 name= Sky Sports Football HD url= "plugin://program.plexus/?url=acestream://9eba690be925a98e8aecfc758070b874e19260c6&mode=1&name=acestream+title" logo= "https://lh3.googleusercontent.com/nwUWJoSto_JpXbFt5IBZ_1O0_E5do6Wt48VTZI588oKDypv25YHtd0Vx4udnHimtvTs=w300"
 name= Sky Sports Premier League HD url= "plugin://program.plexus/?url=acestream://92376ea16e80c90f2727c49e05fc5e4b75eae3e9&mode=1&name=acestream+title" logo= "http://img.skysports.com/tvlogos/channels/1303-Mobile-Logo.svg"
 name= Sky Sports Darts HD url= "plugin://program.plexus/?url=acestream://1c14883164419285b005a7f96d502489e80b8dc4&mode=1&name=acestream+title" logo= "http://e2.365dm.com/15/03/1-1/40/ssdarts-darts-dartstwitter_3275792.png"
-name= Blank 2 url= "plugin://program.plexus/?url=acestream://" logo= "http://pngimg.com/uploads/football/football_PNG1085.png"
+name= Arsenal vs Crystal Palace url= "plugin://program.plexus/?url=acestream://1a25696f6688fc97fcba655354f40a3d71e3bd46" logo= "http://pngimg.com/uploads/football/football_PNG1085.png"
 name= Blank 3 url= "plugin://program.plexus/?url=acestream://" logo= "http://pngimg.com/uploads/football/football_PNG1085.png"
 
 
