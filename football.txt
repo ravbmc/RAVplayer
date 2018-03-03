@@ -1,4 +1,4 @@
-name= Burnley vs Everton url= "plugin://program.plexus/?url=acestream://50d8fe1a605c006997d17f0c17d1bc15f5ff2a4c&mode=1&name=acestream+title" logo= "https://lh3.googleusercontent.com/nwUWJoSto_JpXbFt5IBZ_1O0_E5do6Wt48VTZI588oKDypv25YHtd0Vx4udnHimtvTs=w300"
+name= Burnley vs Everton 2 url= "plugin://program.plexus/?url=acestream://afd8e8a97d26f73112d283fdeba2b2ca71815627&mode=1&name=acestream+title" logo= "https://lh3.googleusercontent.com/nwUWJoSto_JpXbFt5IBZ_1O0_E5do6Wt48VTZI588oKDypv25YHtd0Vx4udnHimtvTs=w300"
 name= Sky Sports Premier League HD url= "plugin://program.plexus/?url=acestream://92376ea16e80c90f2727c49e05fc5e4b75eae3e9&mode=1&name=acestream+title" logo= "http://img.skysports.com/tvlogos/channels/1303-Mobile-Logo.svg"
 name= Sky Sports Darts HD url= "plugin://program.plexus/?url=acestream://1c14883164419285b005a7f96d502489e80b8dc4&mode=1&name=acestream+title" logo= "http://e2.365dm.com/15/03/1-1/40/ssdarts-darts-dartstwitter_3275792.png"
 name= Man Utd vs Hudd url= "plugin://program.plexus/?url=acestream://280f8220abf5b0e4ed2ba21950308adad39ec0be&mode=1&name=acestream+title" logo= "http://pngimg.com/uploads/football/football_PNG1085.png"
